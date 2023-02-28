@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Concert
+comment0.text=\r\n\ Clase\ que\ simula\ un\ concierto\r\n\ \r\n\ @author\ Ricardo\ Marqu\u00E9s\ Garay\ \r\n\ @version\ 10/06/2019\r\n
+comment1.params=name\ price\ date
+comment1.target=Concert(java.lang.String,\ double,\ Date)
+comment1.text=\r\n\ Constructor\ con\ 3\ par\u00E1metros\r\n\ @param\ name\ de\ tipo\ String\r\n\ @param\ price\ de\ tipo\ double\r\n\ @param\ date\ de\ tipo\ Date\r\n
+comment2.params=name
+comment2.target=void\ setName(java.lang.String)
+comment2.text=\r\n\ Metodo\ para\ cambiar\ el\ nombre\r\n\ @param\ name\ de\ tipo\ String\r\n
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment3.text=\r\n\ Metodo\ para\ saber\ el\ nombre\r\n\ @return\ name\ de\ tipo\ String\ \ \ \ \ \r\n
+comment4.params=price
+comment4.target=void\ setPrice(double)
+comment4.text=\r\n\ Metodo\ para\ cambiar\ el\ precio\ de\ la\ butaca\ de\ patio\r\n\ \ @param\ price\ de\ tipo\ double\r\n
+comment5.params=
+comment5.target=double\ getPrice()
+comment5.text=\r\n\ Metodo\ para\ saber\ el\ precio\r\n\ @return\ price\ de\ tipo\ double\ \ \ \ \r\n
+comment6.params=date
+comment6.target=void\ setDate(Date)
+comment6.text=\r\n\ Metodo\ para\ cambiar\ la\ fecha\r\n\ \ @param\ date\ de\ tipo\ Date\r\n
+comment7.params=
+comment7.target=Date\ getDate()
+comment7.text=\r\n\ Metodo\ para\ saber\ la\ fecha\r\n\ @return\ date\ de\ tipo\ Date\r\n
+numComments=8

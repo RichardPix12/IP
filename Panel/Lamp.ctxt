@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Lamp
+comment0.text=\r\n\ Simula\ el\ funcionamiento\ de\ una\ bombilla\r\n\ \r\n\ @author\ Ricardo\ Marqu\u00E9s\ Garay\ \r\n\ @version\ 05/06/2019\r\n
+comment1.params=
+comment1.target=Lamp()
+comment1.text=\r\n\ Constructor\ sin\ par\u00E1metros\r\n
+comment2.params=state
+comment2.target=void\ setState(boolean)
+comment2.text=\r\n\ Metodo\ que\ cambia\ el\ estado\ de\ la\ bombilla\r\n\ @param\ state\ de\ tipo\ boolean\r\n
+comment3.params=
+comment3.target=boolean\ getState()
+comment3.text=\ Metodo\ que\ dice\ el\ estado\ de\ la\ bombilla\r\n\ @return\ state\ de\ tipo\ boolean\r\n
+comment4.params=
+comment4.target=void\ turnOn()
+comment4.text=\r\n\ Metodo\ que\ enciende\ la\ bombilla\r\n\ \r\n
+comment5.params=
+comment5.target=void\ turnOff()
+comment5.text=\r\n\ Metodo\ que\ apaga\ la\ bombilla\r\n\ @param\ turnOff\ de\ tipo\ boolean\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ Metodo\ que\ te\ dice\ si\ la\ bombilla\ esta\ encendida\ o\ apagada\r\n\ Encendida\ o\ apagada\ de\ tipo\ String\r\n
+numComments=7

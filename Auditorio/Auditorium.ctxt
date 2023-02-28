@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Auditorium
+comment0.text=\r\n\ Clase\ que\ simula\ un\ auditorio\r\n\ \r\n\ @author\ Ricardo\ Marqu\u00E9s\ Garay\ \r\n\ @version\ 10/06/2019\r\n
+comment1.params=
+comment1.target=Auditorium()
+comment1.text=\r\n\ Constructor\ del\ auditorio\r\n
+comment2.params=concertName
+comment2.target=Concert\ seekConcert(java.lang.String)
+comment2.text=\r\n\ Metodo\ que\ busca\ un\ concierto\ por\ su\ nombre\r\n\ \r\n\ @param\ \ concertName\ de\ tipo\ String\r\n\ @return\ \ \ el\ concierto\ de\ tipo\ Concert\ si\ coincide\r\n\ @return\ null\ si\ no\ coincide\r\n
+comment3.params=concertName\ price\ date
+comment3.target=void\ addConcert(java.lang.String,\ double,\ Date)
+comment3.text=\r\n\ Metodo\ que\ a\u00F1ade\ un\ concierto\ a\ la\ lista\ siempre\ que\ no\ haya\ uno\ en\ esa\ fecha\r\n\ @param\ concertName\ de\ tipo\ Concert\r\n\ @param\ price\ de\ tipo\ double\r\n\ @param\ date\ de\ tipo\ Date\r\n
+comment4.params=year
+comment4.target=void\ removeConcerts(int)
+comment4.text=\r\n\ Metodo\ que\ borra\ todos\ los\ conciertos\ que\ haya\ habido\ en\ ese\ a\u00F1o\r\n\ @param\ year\ de\ tipo\ int\r\n
+numComments=5

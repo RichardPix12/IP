@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=BasculeBridge
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ BasculeBridge\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=slope
+comment1.target=BasculeBridge(int)
+comment1.text=\r\n\ Constructor\ del\ puente\ con\ parametro\r\n\ @param\ slope,\ de\ tipo\ int\r\n
+comment2.params=slope
+comment2.target=void\ setSlope(int)
+comment2.text=\r\n\ Metodo\ que\ permite\ modificar\ la\ inclinaci\u00F3n\ del\ puente\r\n\ @param\ slope\ de\ tipo\ int\r\n
+comment3.params=
+comment3.target=int\ getSlope()
+comment3.text=\r\n\ Metodo\ que\ permite\ saber\ la\ inclinaci\u00F3n\ del\ puente\r\n\ @return\ slope\ de\ tipo\ int\r\n
+comment4.params=slope
+comment4.target=void\ raiseBridge(int)
+comment4.text=\r\n\ Metodo\ que\ incrementa\ la\ posici\u00F3n\ del\ puente\ \r\n\ @param\ slope\ de\ tipo\ int\r\n
+comment5.params=slope
+comment5.target=void\ dropBridge(int)
+comment5.text=\r\n\ Metodo\ que\ disminuye\ la\ posici\u00F3n\ del\ puente\r\n\ @param\ slope\ de\ tipo\ int\r\n
+numComments=6

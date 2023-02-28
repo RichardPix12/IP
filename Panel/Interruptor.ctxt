@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Interruptor
+comment0.text=\r\n\ Clase\ que\ simula\ un\ interruptor\r\n\ \r\n\ @author\ Ricardo\ Marqu\u00E9s\ Garay\r\n\ @version\ 05/06/2019\r\n
+comment1.params=
+comment1.target=Interruptor()
+comment1.text=\r\n\ Constructor\ sin\ par\u00E1metros\r\n
+comment2.params=state
+comment2.target=void\ setState(boolean)
+comment2.text=\r\n\ Metodo\ que\ cambia\ el\ estado\ del\ interruptor\r\n\ @param\ state\ de\ tipo\ boolean\r\n
+comment3.params=
+comment3.target=boolean\ getState()
+comment3.text=\r\n\ Merodo\ que\ dice\ el\ estado\ del\ interruptor\r\n\ @return\ state\ de\ tipo\ boolean\r\n
+comment4.params=
+comment4.target=void\ press()
+comment4.text=\ Metodo\ que\ enciende\ y\ apaga\ y\ el\ interruptor\r\n\ \r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ Metodo\ que\ te\ dice\ el\ estado\ del\ interruptor\r\n\ @return\ el\ estado\ de\ tipo\ String\r\n
+numComments=6

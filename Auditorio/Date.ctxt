@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Date
+comment0.text=\r\n\ Clase\ que\ simula\ una\ fecha\r\n\ \r\n\ @author\ Ricardo\ Marqu\u00E9s\ Garay\r\n\ @version\ 10/06/2019\r\n
+comment1.params=day\ month\ year
+comment1.target=Date(int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ para\ una\ fecha\ con\ 3\ par\u00E1metros\r\n\ @param\ day\ de\ tipo\ int\r\n\ @param\ month\ de\ tipo\ int\r\n\ @param\ year\ de\ tipo\ int\r\n
+comment2.params=day
+comment2.target=void\ setDay(int)
+comment2.text=\r\n\ Metodo\ para\ cambiar\ el\ dia\r\n\ @param\ day\ de\ tipo\ int\r\n
+comment3.params=
+comment3.target=int\ getDay()
+comment3.text=\r\n\ Metodo\ para\ saber\ el\ dia\r\n\ @return\ day,\ de\ tipo\ int\r\n
+comment4.params=month
+comment4.target=void\ setMonth(int)
+comment4.text=\r\n\ Metodo\ para\ cambiar\ el\ mes\r\n\ @param\ month\ de\ tipo\ int\r\n
+comment5.params=
+comment5.target=int\ getMonth()
+comment5.text=\r\n\ Metodo\ para\ saber\ el\ mes\r\n\ @return\ month\ de\ tipo\ int\r\n
+comment6.params=year
+comment6.target=void\ setYear(int)
+comment6.text=\r\n\ Metodo\ para\ cambiar\ el\ a\u00F1o\r\n\ @param\ year\ de\ tipo\ int\r\n
+comment7.params=
+comment7.target=int\ getYear()
+comment7.text=\r\n\ Metodo\ para\ saber\ el\ a\u00F1o\r\n\ @return\ year\ de\ tipo\ int\r\n
+numComments=8
