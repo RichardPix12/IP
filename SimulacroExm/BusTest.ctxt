@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=BusTest
+comment0.text=\r\n\ Clase\ de\ prueba\ para\ BUS\r\n\r\n\ @author\ \ Ricardo\ Marqu\u00E9s\ Garay\r\n\ @version\ 04/06/2019\r\n
+comment1.params=
+comment1.target=BusTest()
+comment1.text=\r\n\ Default\ constructor\ for\ test\ class\ BusTest\r\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment3.params=
+comment3.target=void\ tearDown()
+comment3.text=\r\n\ Tears\ down\ the\ test\ fixture.\r\n\r\n\ Called\ after\ every\ test\ case\ method.\r\n
+comment4.params=
+comment4.target=void\ testSitDriver()
+comment5.params=
+comment5.target=void\ testGetOn()
+comment6.params=
+comment6.target=void\ TestToString()
+numComments=7
